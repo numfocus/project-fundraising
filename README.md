@@ -5,4 +5,6 @@ Projects interested in applying or discussing these funding opportunities or oth
 
 - **HHS / ACL (2026)** – RERC on AI-Driven Assistive and Rehabilitation Technologies
 
+- **Japan–U.S. Global Partnership (2026–2027)** – International collaboration grants (Due: Dec 1, 2025)
+
 
