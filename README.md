@@ -3,3 +3,6 @@ List of new RFPs and upcoming deadlines for open solicitations. Opportunties inc
 
 Projects interested in applying or discussing these funding opportunities or others more broadly are encouraged to comment in the Issue or email mk@numfocus.org cc: finance@numfocus.org to ensure your proposal is sufficiently resourced and properly packaged by NumFOCUS. 
 
+- **HHS / ACL (2026)** – RERC on AI-Driven Assistive and Rehabilitation Technologies
+
+
